@@ -3,7 +3,7 @@
 
 目前大体的方法：
 
-使用 EfficientNet_b5 预训练模型，epochs = 5
+由 baseline 修改而来，使用 EfficientNet_b5 预训练模型，epochs = 5
 
 还可以改进的地方：
 
